@@ -1,6 +1,6 @@
 {
     "name": "ExpandOnline/bing-ads-sdk-php",
-    "description": "Bing Ads API Version 9 Client Library for PHP.",
+    "description": "Bing Ads API Version 9 and 10 Client Library for PHP.",
     "keywords": ["bing", "bing-ads","api", "sdk"],
     "type": "library",
     "license": "Apache-2.0",
