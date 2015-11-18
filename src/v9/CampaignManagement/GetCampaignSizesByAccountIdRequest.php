@@ -1,0 +1,9 @@
+<?php
+
+namespace BingAds\v9\CampaignManagement;
+
+final class GetCampaignSizesByAccountIdRequest
+{
+    public $AccountId;
+    public $CampaignIds;
+}
