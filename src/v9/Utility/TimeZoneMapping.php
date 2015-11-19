@@ -71,6 +71,8 @@ class TimeZoneMapping {
 		TimeZoneType::MidwayIslandAndSamoa => 'Pacific/Midway',
 		TimeZoneType::MoscowStPetersburgVolgograd => 'Africa/Asmara',
 		TimeZoneType::MountainTimeUSCanada => 'America/Chihuahua',
+		// Not defined in TimeZoneType yet returned by the API :).
+		'MountainTime_US_Canada' => 'America/Chihuahua',
 		TimeZoneType::Nairobi => 'Africa/Asmara',
 		TimeZoneType::Newfoundland => 'America/St Johns',
 		TimeZoneType::Nukualofa => 'Antarctica/McMurdo',
