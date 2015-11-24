@@ -74,7 +74,7 @@ class TimeZoneMapping {
 		// Not defined in TimeZoneType yet returned by the API :).
 		'MountainTime_US_Canada' => 'America/Chihuahua',
 		TimeZoneType::Nairobi => 'Africa/Asmara',
-		TimeZoneType::Newfoundland => 'America/St Johns',
+		TimeZoneType::Newfoundland => 'America/St_Johns',
 		TimeZoneType::Nukualofa => 'Antarctica/McMurdo',
 		TimeZoneType::OsakaSapporoTokyo => 'Asia/Jayapura',
 		TimeZoneType::PacificTimeUSCanadaTijuana => 'America/Dawson',
