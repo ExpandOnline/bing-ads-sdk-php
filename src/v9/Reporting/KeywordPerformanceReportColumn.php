@@ -138,4 +138,5 @@ final class KeywordPerformanceReportColumn
     const AveragePagesPerVisit = 'AveragePagesPerVisit';
     /** The sum total of the time customers spent browsing your site divided by the number of customers that came to your site. */
     const AverageDurationPerVisit = 'AverageDurationPerVisit';
+    const FinalURL = 'FinalURL';
 }
