@@ -103,4 +103,5 @@ final class AdPerformanceReportColumn
     const RevenuePerConversion = 'RevenuePerConversion';
     /** The revenue per assist. */
     const RevenuePerAssist = 'RevenuePerAssist';
+    const FinalURL = 'FinalURL';
 }
